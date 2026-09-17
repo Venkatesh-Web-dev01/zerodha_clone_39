@@ -14,3 +14,5 @@ How to run it
 There are no run or test commands yet because the repository does not contain source code, a package manifest, or build configuration.
 git clone https://github.com/Venkatesh-Web-dev01/zerodha_clone_39.git
 cd zerodha_clone_39
+
+This project is intended for educational use only. It demonstrates how to build a trading platform clone, practice full-stack development, and understand financial app workflows. It is not a production-ready trading system.
